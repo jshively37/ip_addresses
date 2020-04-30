@@ -85,7 +85,7 @@ git clone https://github.com/<YOUR USERNAME>/ip_addresses.git
 
 ### :keyboard:Activity: Read and update the scripts documentation
 
-The documentation for the script includes information about features to provided by the script. It also includes steps that you should follow in order to obtain the API key to use the service that the script will use to validate the IP addresses. Finally, read through the inline comments to complete the functionality listed in each of the sections.
+The documentation for the script includes information about features to provided by the script. It also includes steps that you should follow in order to obtain the API key to use the service that the script will use to validate the IP addresses. Finally, read through the inline comments to complete the functionality listed in each of the sections. Make sure to update the `Author` section with your name!
 
 ### :keyboard:Activity: Develop your script
 
