@@ -58,7 +58,7 @@ def main(arguments):
 
     # loop through each IP in the file and use the request library to make
     # a GET call to the ipdata.co service.
-    # example for each call: f'https://api.ipdata.co/{ip}?api-key={api_key}'
+    # example for each call: f'https://api.ipdata.co/{ip}?api-key={API_KEY}'
 
     # print out the list of IPs that are categorized as threats. As a bonus,
     # save the output out as a csv file. hint: Python has a `csv` module
